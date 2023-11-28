@@ -182,7 +182,7 @@ void tratarPalavra(char palavra[], int flagaux){
             colorir(12);
             printf("\nE R R O\nNão conheço essa palavra, tente outra.\n: ");
             colorir(7);
-            tratarPalavra(palavra, flag);
+            tratarPalavra(palavra, flagaux);
         }
     }
 
@@ -331,7 +331,7 @@ void manual (){
 
     //apresenta as instruções do jogo.
     printf("---M A N U A L---\n");
-    printf("TERMO é um jogo de adivinhação de palavras, ele é semelhante ao jogo da forca.\nNele você terá cinco tentativas para tentar descobrir a palavra correta. \nNo jogo, as letras incorretas tentadas sumirão da tela, as letras \nque existam na palavra, porém na posição errada ficará marcada em \nminúsculo, já as letras que existam na palavra e estejam corretas ficaram maiúsculas.");
+    printf("TERMO é um jogo de adivinhação de palavras, ele é semelhante ao jogo da forca.\nNele você terá cinco tentativas para tentar descobrir a palavra correta. \nNo jogo, as letras incorretas tentadas vão ficar na cor cinza, as letras \nque existam na palavra, porém na posição errada ficará marcada em \nminúsculo e da cor amarela, já as letras que existam na palavra e estejam corretas ficaram maiúsculas e verde.");
     printf("\n\nPrimeira opção:\nNa primeira opção você escolherá uma palavra na intenção de desafiar um amigo\na acertá-la, lembre-se, ele terá apenas cinco tentativas.");
     printf("\n\nSegunda opção:\nNa segunda opção o computador irá sortear uma palavra de cinco letras e você terá\nque adivinhá-la, lembre-se, você terá apenas cinco tentativas");
     printf("\n\nCaso queira ver um exemplo aperte o número 1, caso já tenha entendido digite o número 2: ");

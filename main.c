@@ -20,14 +20,15 @@ int main()
     //menu principal
     do{
         system("cls");
-        printf("=======================================\n");
-        printf("---------------T E R M O---------------\n");
-        printf("=======================================\n");
-        printf("\n1 - Escolha uma palavra: ");
-        printf("\n2 - Adivinhe uma palavra escolhida pelo computados: ");
-        printf("\n3 - Manual.");
-        printf("\n4 - Sair.");
-        printf("\nInforme sua escolha: ");
+        printf("|======================================================|\n");
+        printf("|-----------------------T E R M O----------------------|\n");
+        printf("|======================================================|\n");
+        printf("|1 - Escolha uma palavra:                              |\n");
+        printf("|2 - Adivinhe uma palavra escolhida pelo computados:   |\n");
+        printf("|3 - Manual.                                           |\n");
+        printf("|4 - Sair.                                             |\n");
+        printf("|Informe sua escolha:                                  |\n");
+        printf("|");
 
         //valida opção do usuário
         while (scanf("%d", &opc) != 1){

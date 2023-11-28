@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1701034442 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\main.c
+1701168588 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\main.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
@@ -9,7 +9,7 @@
 	<time.h>
 	"cabecalhoFuncao.h"
 
-1701034442 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\funcoes.c
+1701170258 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\funcoes.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
