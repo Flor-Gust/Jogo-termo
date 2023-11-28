@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1701034442 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"cabecalhoFuncao.h"
+
+1701034442 source:e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"cabecalhoFuncao.h"
+
+1701034442 e:\faculdade\2° periodo\extensão\jogo\termoversaofinal\cabecalhofuncao.h
+
+1700871336 source:d:\faculdade\2° periodo\extensão\jogo\termoversaofinal\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"cabecalhoFuncao.h"
+
+1700754014 d:\faculdade\2° periodo\extensão\jogo\termoversaofinal\cabecalhofuncao.h
+
+1700868786 source:d:\faculdade\2° periodo\extensão\jogo\termoversaofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"cabecalhoFuncao.h"
+
