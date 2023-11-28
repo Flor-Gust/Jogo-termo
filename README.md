@@ -6,7 +6,7 @@
 
 # Instrução para rodar:
 
-1 - Baixa e extraia o arquivo zip.
+1 - Baixa e extraia o arquivo .rar.
 
 2 - Entre na pasta e abra a pasta "bin" e depois a pasta "debug".
 
@@ -24,6 +24,8 @@
 Trabalho realizado na disciplina Extensão II.
 
 O objetivo desse trabalho era fazer um jogo para ser aprensentado em uma escola estadual para uma turma do EJA. Esse trabalho desenvolveu e consolidou meu aprendizado na linguagem C.
+
+É um jogo de adivinhação de palavra, haverá uma palavra secreta e você terá cinco tentativas para acertá-la. Você deve tentar palavras de cinco letras, letras que existam na palavra secreta e estejam na pocição correta ficaram marcadas de verde e maiúscula, letras que existam porém na posição incorreta ficaram marcadas de amarelo e minúscula, e por fim, letras que não existam na palavra secreta ficaram marcadas em minúsculas e da cor cinza.
 
 # Tecnologias utillizadas
 
