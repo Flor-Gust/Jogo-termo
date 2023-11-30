@@ -6,11 +6,11 @@
 
 # Instrução para rodar:
 
-1 - Baixa e extraia o arquivo .rar.
+1 - É necessário ter o codeblocks na maquina.
 
-2 - Entre na pasta e abra a pasta "bin" e depois a pasta "debug".
+2 - Baixa e extraia o arquivo .zip.
 
-3 - Haverá um executável, dê um clique duplo e divirta-se.
+3 - Abra o codeblocks e abra o arquivo termoVersaoFinal.cbp dentro da pasta jogo-termo-.
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="logo language C" src="\arquivos\Caminho.PNG">
