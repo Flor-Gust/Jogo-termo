@@ -6,7 +6,7 @@
 
 # Instrução para rodar:
 
-1 - É necessário ter o codeblocks na maquina.
+1 - É necessário ter o codeblocks na máquina.
 
 2 - Baixa e extraia o arquivo .zip.
 
