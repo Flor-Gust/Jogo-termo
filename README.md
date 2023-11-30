@@ -13,8 +13,7 @@
 3 - Abra o codeblocks e abra o arquivo termoVersaoFinal.cbp dentro da pasta jogo-termo-.
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="logo language C" src="\arquivos\Caminho.PNG">
-    <img align="center" alt="logo language C" src="\arquivos\executavel.PNG">
+    <img align="center" alt="caminho para abrir o jogo no codeblocks" src="\arquivos\termoVersaoFinal.PNG">
 </div><br/>
 
 <br/>
